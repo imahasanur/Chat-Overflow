@@ -1,6 +1,0 @@
-@ChatOverflow.Api_HostAddress = http://localhost:5072
-
-GET {{ChatOverflow.Api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
